@@ -1,8 +1,5 @@
-# Big_Data_Project
+# Big Data Analytics for Airline Efficiency: A Project on Flight Delay Prediction, Marketing Optimization, and Operational Improvement
 #### University of Chicago - ACSP 31013 - Big Data Platforms final project
-
-#### "Big Data Analytics for Airline Efficiency: A Project on Flight Delay Prediction, Marketing Optimization, and Operational Improvement"
-
 ##### Executive Summary:
 The aviation industry faces challenges managing flight delays, incurring substantial costs, and disrupting passenger experiences. FAA/Nextor estimated these annual delay costs to be approximately $28 billion. Utilizing big data tools, a vast flight dataset (over 29 million records) sourced from Kaggle was analyzed, addressing complexities, data quality, and regulatory variations. Insights revealed typical minor delays (12-13 mins) affecting 17-18% of flights, with preprocessing involving string indexing, one-hot encoding, feature creation, scaling, and feature selection within a structured pipeline.
 
